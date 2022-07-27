@@ -1,0 +1,75 @@
+{
+  "contactInfo": {
+    "name": "John Doe",
+    "title": "Frontend Developer",
+    "email": "me@johndoe.com",
+    "firstLink": "https://www.johndoe.com",
+    "secondLink": "https://linkedin.com/in/johndoe"
+  },
+  "summary": "Senior Frontend Developer with 9 years of proven leadership and meaningfully contributions to teams of varying size and scope. With results-driven mentality, transformed teams at GitHub by seeking, learning, and teaching new, efficient technologies to make aggressive deadlines consistently achievable.",
+  "workExperience": [
+    {
+      "title": "Senior Frontend Developer",
+      "company": "GitHub",
+      "location": "New York, NY",
+      "date": "Jun 2018 - Present",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "bulletPoints": [
+        "Led development team of 5 to create GitHub pages, allowing customer repositories to be hosted directly.",
+        "Implemented AWS to allow easy iteration in company cloud infrastructure.",
+        "Created new documentation for MaterialUI that prevented the need for a 3-week onboarding course.",
+        "Mentored 8 new junior front-end developers on team in expanding JavaScript, React, and Angular skillset.",
+        "Worked with PM/IM to keep on track with the project plan, timeline, and billing."
+      ]
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "company": "GitHub",
+      "location": "New York, NY",
+      "date": "Jun 2018 - Present",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "bulletPoints": [
+        "Led development team of 5 to create GitHub pages, allowing customer repositories to be hosted directly.",
+        "Implemented AWS to allow easy iteration in company cloud infrastructure.",
+        "Created new documentation for MaterialUI that prevented the need for a 3-week onboarding course.",
+        "Mentored 8 new junior front-end developers on team in expanding JavaScript, React, and Angular skillset.",
+        "Worked with PM/IM to keep on track with the project plan, timeline, and billing."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "DTX",
+      "location": "New York, NY",
+      "date": "July 2014 - Jun 2018",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "bulletPoints": [
+        "Participated in the initial wave of developers learning and implementing the React.JS library.",
+        "Rewrote HTML to meet industry and company standards for SEO and Accessibility.",
+        "Utilized HTML, CSS, and JavaScript to create 100+ responsive landing pages for both company and client.",
+        "Maintained graphic standards and branding throughout the product’s interfaces.",
+        "Introduced Kanban Board style ticketing system to promote highly efficient asynchronous and synchronous work, increasing efficiency by 12%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Washington",
+      "location": "Seattle, WA",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "date": "September 2010 - May 2014"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "Tailwind CSS",
+    "Jest",
+    "Git",
+    "Scrum"
+  ]
+}
