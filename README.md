@@ -1,6 +1,6 @@
 # Resume Builder
 
-Make a standard one-page resume in 5 minutes with react.
+## Make a standard one-page resume in 5 minutes with react.
 ![alt text](https://raw.githubusercontent.com/sepehr-safari/resume-builder/master/resume-builder.png)
 
 ## How to use
