@@ -5,7 +5,7 @@ function App() {
   useDocumentTitle();
 
   return (
-    <div className="w-md mx-auto p-3">
+    <div className="paper mx-auto p-3">
       <ContactInfo />
 
       <Summary />

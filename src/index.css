@@ -6,7 +6,7 @@
 
 :root {
   font-family: 'Calibri', 'Arial';
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.6rem;
   text-align: justify;
 }
@@ -21,7 +21,7 @@ ul {
   font-weight: 200;
 }
 
-.w-md {
+.paper {
   width: 1050px;
 }
 
@@ -97,4 +97,12 @@ ul {
 
 @page {
   size: letter;
+  margin: 0;
+}
+
+@media (max-width: 1050px) {
+  .paper {
+    width: 100%;
+    min-width: 800px;
+  }
 }
